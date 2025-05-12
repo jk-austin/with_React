@@ -1,4 +1,9 @@
 // This is a sample file.
 <!DOCTYPE html>
+    <head>
+    Welcome to a page made with React.
+    </head>
+    <body>
+    <p>lorem ipsum etc. </p>
 <html>
 </html>
